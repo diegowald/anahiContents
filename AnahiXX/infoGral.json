@@ -1,9 +1,9 @@
 {
-	"mapaClub": true,
-	"revistaDigital": true,
-	"informacion": true,
-	"contactos": true,
-	"documentos": true,
+	"mapaClub": false,
+	"revistaDigital": false,
+	"informacion": false,
+	"contactos": false,
+	"documentos": false,
 	"horarios": true,
 	"galeriaFotos": true,
 	"merchandising": true
