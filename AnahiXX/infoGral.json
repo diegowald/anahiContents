@@ -6,5 +6,6 @@
 	"documentos": false,
 	"horarios": true,
 	"galeriaFotos": true,
-	"merchandising": true
+	"merchandising": true,
+	"urlContactos": "",
 }
