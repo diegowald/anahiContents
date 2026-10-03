@@ -2,7 +2,7 @@
 	"mapaClub": false,
 	"revistaDigital": false,
 	"informacion": false,
-	"contactos": false,
+	"contactos": true,
 	"documentos": false,
 	"horarios": true,
 	"galeriaFotos": true,
