@@ -1,11 +1,11 @@
 {
-	"mapaClub": false,
-	"revistaDigital": false,
-	"informacion": false,
+	"mapaClub": true,
+	"revistaDigital": true,
+	"informacion": true,
 	"contactos": true,
-	"documentos": false,
+	"documentos": true,
 	"horarios": true,
-	"galeriaFotos": true,
+	"galeriaFotos": false,
 	"merchandising": true,
 	"urlContactos": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/contactos.json"
 }
