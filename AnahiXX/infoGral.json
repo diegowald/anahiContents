@@ -7,5 +7,10 @@
 	"horarios": true,
 	"galeriaFotos": false,
 	"merchandising": true,
-	"urlContactos": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/contactos.json"
+	"urlMapaClub": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/mapaClub.png",
+	"urlRevistaDigital": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/revista.pdf",
+	"urlInformacion": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/informacion.json",
+	"urlContactos": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/contactos.json",
+	"urlHorarios": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/horarios.json",
+	"urlMerchandising": "https://raw.githubusercontent.com/diegowald/anahiContents/refs/heads/master/AnahiXX/merchandising.json",
 }
