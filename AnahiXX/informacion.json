@@ -1,6 +1,9 @@
 [
 	{
 		"titulo":"Historia",
-		"parrafo":""
+		"parrafos": [
+			"parrafo 1",
+			"parrafo2"
+		]
 	}
 ]
