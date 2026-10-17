@@ -1,9 +1,23 @@
 [
 	{
-		"titulo":"Historia",
+		"titulo":"Clubes que participan",
 		"parrafos": [
-			"parrafo 1",
-			"parrafo2"
+			"Club Argentino, Bahía Blanca, URS", 
+			"Club Darregueira, Darregueira, URS", 
+			"Club Deportivo Sarmiento de Carhue, Carhue, URS", 
+			"Coronel Pringles, Coronel Pringles, URS", 
+			"Coronel Suarez, Coronel Suarez, URS", 
+			"El Nacional, Bahía Blanca, URS", 
+			"Palihue, Bahía Blanca, URS", 
+			"Puerto Belgrano, Punta Alta, URS", 
+			"Punta Alta Rurgby, Punta Alta, URS", 
+			"Santa Rosa Rugby, Santa Rosa, URS",
+			"Sociedad Sportiva, Bahía Blanca, URS", 
+			"Tres Arroyos Rugby Club, Tres Arroyos, URS", 
+			"Universitario de Bahía Blanca, Bahía Blanca, URS", 
+			"Curupayti, Hurlungham,	URBA", 
+			"Puerto Matryn Rugby Club, Puerto Madryn, URVCH", 
+			"Bigornia Rugby Club, Rawson, URVCH"
 		]
 	}
 ]
