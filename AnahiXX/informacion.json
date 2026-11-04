@@ -1,7 +1,13 @@
 [
+	{"titulo": "IMPORTANTE",
+		"parrafos": [
+			"POR FAVOR que todos los chicos lleven vaso/botella para el TERCER TIEMPO."
+		]
+	},
 	{
 		"titulo": "Clubes que participan",
 		"parrafos": [
+			"Bigornia Rugby Club, Rawson, URVCH",
 			"Camarones RC, Pinamar, (URMdP)",
 			"Club Argentino, Bahía Blanca, URS",
 			"Club Darregueira, Darregueira, URS",
@@ -14,11 +20,11 @@
 			"Punta Alta Rurgby, Punta Alta, URS",
 			"Santa Rosa Rugby, Santa Rosa, URS",
 			"Sociedad Sportiva, Bahía Blanca, URS",
+			"Sol de Maryo, Viedma, URS",
 			"Tres Arroyos Rugby Club, Tres Arroyos, URS",
 			"Universitario de Bahía Blanca, Bahía Blanca, URS",
 			"Curupaytí, Hurlingham, URBA",
 			"Puerto Madryn Rugby Club, Puerto Madryn, URVCH",
-			"Bigornia Rugby Club, Rawson, URVCH"
 		]
 	},
 	{
