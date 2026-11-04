@@ -15,11 +15,11 @@
 	{
 		"id": 2,
 		"activity":"Llegada delegaciones",
-		"description": "Llegada de Curupayti al Country",
+		"description": "Llegada de Curupayti a la Sede (Av. Colón 67)",
 		"dayOfWeek":"Viernes",
 		"startTime":"21:00:00",
 		"endTime":"21:30:00",
-		"location":"Necochea y Pilmayquen. https://maps.app.goo.gl/oDN1x1k3QRf3J1tK7",
+		"location":"Av. Colón 67. https://maps.app.goo.gl/UKLvVCWjtkKynXmr5",
 		"category":"Llegada",
 		"isActive": true,
 		"coach": null,
