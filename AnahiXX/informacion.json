@@ -1,5 +1,13 @@
 [
-	{"titulo": "IMPORTANTE",
+	{
+		"titulo": "Club Argentino",
+		"parrafos": [
+			"Sede Social: Av Colón 67. https://maps.app.goo.gl/UKLvVCWjtkKynXmr5",
+			"Country (Canchas de Hockey y de Rugby). Necochea y Pilmayquen: https://maps.app.goo.gl/rSntpri4qZgLg5zE7"
+		]
+	},
+	{
+		"titulo": "IMPORTANTE",
 		"parrafos": [
 			"POR FAVOR que todos los chicos lleven vaso/botella para el TERCER TIEMPO."
 		]
