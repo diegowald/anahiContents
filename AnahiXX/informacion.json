@@ -20,5 +20,14 @@
 			"Puerto Madryn Rugby Club, Puerto Madryn, URVCH",
 			"Bigornia Rugby Club, Rawson, URVCH"
 		]
+	},
+	{
+		"titulo": "Centros de asistencia para derivación:",
+		"parrafos": [
+	        "Hospital Interzonal Dr. J. Penna – Guardia – Necochea y Rincón. https://maps.app.goo.gl/SWRd1fMNYtTUHUnR8",
+	        "Hospital Italiano Regional del Sur – Necochea 675. https://maps.app.goo.gl/WJo1QZDUVVy4DsPY7",
+	        "Hospital Municipal Dr. L. Lucero – Estomba 968. Guardia: Bravard 51. https://maps.app.goo.gl/D4XKGqin9K2qgRLR6",
+	        "Hospital Privado del Sur – Las Heras 164. Guardia: Soler 265. https://maps.app.goo.gl/qfreWavmSHggDCJT7"
+	    ]
 	}
 ]
